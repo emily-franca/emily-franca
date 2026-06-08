@@ -41,7 +41,7 @@ Me chamo Emily de França e tenho 19 anos. Atualmente, estou cursando Sistemas d
 <img 
     align="left" 
     alt="TypeScript"
-    title="TypeScript" 
+    title="C" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
@@ -59,8 +59,8 @@ Me chamo Emily de França e tenho 19 anos. Atualmente, estou cursando Sistemas d
     height="200"
     width="350"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=emily-franca&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    src="https://github-readme-stats.vercel.app/api?username=emily-franca&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
 
 <img 
       align="left" 
