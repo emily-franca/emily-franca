@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Emily de França
 
-Me chamo Emily de França e tenho 19 anos. Atualmente, estou cursando Sistemas da informação no IFC. Sou apaixonada por tudo que envolva tecnologia e estou sempre disposta a aprender mais e compartilhar experiências na área.
+Me chamo Emily de França e tenho 20 anos. Atualmente, estou cursando Sistemas da informação no IFC. Sou apaixonada por tudo que envolva tecnologia e estou sempre disposta a aprender mais e compartilhar experiências na área.
 
 ---
 
